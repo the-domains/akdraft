@@ -2,6 +2,7 @@ name: akdraft
 favicon: null
 layout_spectrum: 0.37766
 typography_spectrum: 0.5679890681058168
+title: akdraft
 cta:
   domain: null
   bucket: null
